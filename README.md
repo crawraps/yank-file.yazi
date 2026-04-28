@@ -1,6 +1,6 @@
 <div align="center"><h1>yank-file.yazi</h1></div>
 
-Yazi plugin to yank (copy) the content of the hovered file to the system clipboard. Reads the file content and puts it on your clipboard so you can paste it anywhere.
+Yazi plugin to copy file content to the clipboard.
 
 <!-- ![showcase](https://github.com/crawraps/yank-file.yazi/assets/VIDEO_OR_IMAGE_ID) -->
 
